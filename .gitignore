@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv
+
+# MCP server config
+mcp.json
