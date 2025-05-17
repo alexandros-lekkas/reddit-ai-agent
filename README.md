@@ -9,3 +9,5 @@ A customizable Reddit AI agent that uses the Reddit MCP server to interact with 
 ```bash
 git clone https://github.com/alexandros-lekkas/reddit-ai-agent.git
 ```
+
+2. Create a virtual environment
